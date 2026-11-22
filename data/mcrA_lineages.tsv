@@ -1,0 +1,70 @@
+query	region	closest_lineage	guild	support	rank	top5_agreement	dist_to_anchor	best_LWR	nearest_anchor
+mcrA|sed_n|sed_n_8412885_1-249	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.8	4.322	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_1887863_1-1413	Muddy	Methanomassiliicoccales	Methanogen	confident	genus/order	0.8	0.422	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_1155791_359-586	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	6.4	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_8392272_1-339	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	6.417	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_2679992_2-352	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	6.711	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_6762422_3-161	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	6.734	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_9072925_143-454	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	8.388	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_5432982_3-188	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	8.654	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_595826_2-457	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	10.237	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_4444030_758-1078	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	11.163	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_5652106_788-1006	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	11.223	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_8924291_877-1050	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	11.472	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_6271109_2-211	Muddy	Methanomassiliicoccales	Methanogen	related	class-level (related)	0.2	11.712	1.0	Methanomassiliicoccus luminyensis
+mcrA|sed_n|sed_n_6816035_3-545	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	0.8	0.34	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_7148354_3-134	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	0.8	0.248	0.955	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_4337498_2-94	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	0.8	0.258	0.479	Methanolinea sp. TNR
+mcrA|sed_n|sed_n_657261_1-336	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.19	0.619	Methanolinea_tarda,
+mcrA|sed_n|sed_n_1851956_1802-3505	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.167	0.999	Methanolinea_tarda,
+mcrA|sed_n|sed_n_3290515_2-811	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.465	0.917	Methanolinea_tarda,
+mcrA|sed_n|sed_n_3055622_26-397	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.214	0.888	Methanolinea_tarda,
+mcrA|sed_n|sed_n_2608534_1-522	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.203	1.0	Methanolinea_tarda,
+mcrA|sed_n|sed_n_7723196_374-556	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.227	0.166	Methanolinea_tarda,
+mcrA|sed_n|sed_n_3411394_1-477	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.215	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_546714_2-136	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.235	0.33	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_7272278_2-379	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.236	0.169	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_1475534_1-288	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.239	0.226	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_3921243_2-529	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.248	0.291	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_8603888_2-415	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.195	0.279	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_1475387_2-241	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.2	0.169	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_1383214_2-796	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.274	0.977	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_1649071_1-240	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.263	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_615737_1-375	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.267	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_3192615_2-346	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.292	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_2874767_1-396	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.222	0.295	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_5283054_1-420	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.215	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_5738504_2-472	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.241	0.395	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_8108357_1-321	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.242	0.892	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_8347314_37-303	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.258	0.994	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_2270935_158-541	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.263	0.992	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_8108638_1-894	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.261	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_2232748_3-608	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.279	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_8882574_41-1003	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.294	0.668	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_3211332_1-384	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.327	0.571	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_6271978_1-258	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.248	0.107	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_5606213_2-307	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.32	0.759	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_6271243_110-367	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.23	0.052	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_7576680_1-384	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.233	0.368	Methanoregula_sp._isolate_PD_MW2_B,
+mcrA|sed_n|sed_n_3854125_2-409	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.236	1.0	Methanoregula_sp._isolate_PD_MW2_B,
+mcrA|sed_n|sed_n_6347957_1-627	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.221	0.632	Methanoregula_sp._isolate_PD_MW2_B,
+mcrA|sed_n|sed_n_4509796_1-606	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.175	0.732	Methanoregula_sp._isolate_PD_MW2_B,
+mcrA|sed_n|sed_n_3598101_268-357	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.219	0.049	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_4209709_3-101	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.255	0.021	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_3598166_3-101	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.255	0.021	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_5283365_1-792	Muddy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.274	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_n|sed_n_4619601_1-339	Muddy	Methanosarcinales	Methanogen	confident	genus/order	1.0	0.103	0.399	Methanosarcina sp. MO-MS1
+mcrA|sed_n|sed_n_5000186_1-441	Muddy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.227	0.689	Methanosaeta_concilii_GP-6,
+mcrA|sed_n|sed_n_2672638_1-1047	Muddy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.265	1.0	Methanosaeta_concilii_GP-6,
+mcrA|sed_n|sed_n_461168_292-393	Muddy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.472	0.013	Methanosaeta_concilii_GP-6,
+mcrA|sed_n|sed_n_8852888_1-681	Muddy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.251	0.996	Methanosaeta_concilii_GP-6,
+mcrA|sed_n|sed_n_8938798_2-376	Muddy	Other methanogen	Methanogen	confident	genus/order	0.2	0.485	0.126	Cand_Methanomethylicus_oleusabulum_V3,
+mcrA|sed_v|sed_v_9016989_1-423	Sandy	Methanobacteriales	Methanogen	confident	genus/order	1.0	0.097	1.0	Methanobacterium flexile
+mcrA|sed_v|sed_v_2472339_182-328	Sandy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.2	0.133	Methanolinea_tarda,
+mcrA|sed_v|sed_v_2587889_1-102	Sandy	Methanomicrobiales	Methanogen	related	class-level (related)	1.0	6.387	0.81	Methanolinea_tarda,
+mcrA|sed_v|sed_v_3342573_2-409	Sandy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.271	0.048	Methanoregula_formicicum_SMSP,
+mcrA|sed_v|sed_v_1664516_3-323	Sandy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.253	1.0	Methanoregula_sp._isolate_PD_MW2_B,
+mcrA|sed_v|sed_v_2587889_115-348	Sandy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.354	0.404	Methanoregula_formicicum_SMSP,
+mcrA|sed_v|sed_v_3655811_3-1346	Sandy	Methanomicrobiales	Methanogen	confident	genus/order	1.0	0.269	1.0	Methanoregula_formicicum_SMSP,
+mcrA|sed_v|sed_v_4960605_1-402	Sandy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.222	0.625	Methanosaeta_concilii_GP-6,
+mcrA|sed_v|sed_v_9356461_10-366	Sandy	Methanotrichales (Methanosaeta)	Methanogen	confident	genus/order	1.0	0.387	0.914	Methanosaeta_concilii_GP-6,

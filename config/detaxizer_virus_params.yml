@@ -1,0 +1,25 @@
+input: /data/nextflow/detaxizer/detax_virus/DETAX_vir_data.csv
+outdir: /data/nextflow/detaxizer/detax_virus/results_virus
+
+tax2filter: "Viruses"
+
+preprocessing: false              
+classification_bbduk: false       
+classification_kraken2: true    
+validation_blastn: false
+classification_kraken2_post_filtering: false
+filter_with_classification: false
+skip_filter: false                
+filter_trimmed: false             
+save_intermediates: false
+
+output_removed_reads: false       
+
+fasta_bbduk: /data/databases/host/human_phix_ref.fasta
+bbduk_kmers: 27
+
+kraken2db: /data/databases/kraken2/k2_core_nt_20251015.tar.gz
+
+reads_minlength: 50
+fastp_qualified_quality: 20
+fastp_cut_mean_quality: 20

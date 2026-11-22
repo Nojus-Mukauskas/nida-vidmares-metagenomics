@@ -1,0 +1,4 @@
+tool,db_name,db_params,db_path
+bracken,k2_core_nt_S,;-r 150 -l S -t 10,/data/databases/kraken2/
+bracken,k2_core_nt_G,;-r 150 -l G -t 10,/data/databases/kraken2/
+bracken,k2_core_nt_F,;-r 150 -l F -t 10,/data/databases/kraken2/

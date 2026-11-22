@@ -1,0 +1,61 @@
+guild	genus	source
+methanogen	Methanothrix	mcrA4All (Methanosaeta)
+methanogen	Methanosaeta	mcrA4All
+methanogen	Methanosarcina	mcrA4All
+methanogen	Methanobacterium	mcrA4All
+methanogen	Methanoregula	mcrA4All
+methanogen	Methanolinea	mcrA4All
+methanogen	Methanoculleus	mcrA4All
+methanogen	Methanospirillum	mcrA4All
+methanogen	Methanogenium	mcrA4All
+methanogen	Methanofollis	mcrA4All
+methanogen	Methanomicrobium	mcrA4All
+methanogen	Methanoplanus	mcrA4All
+methanogen	Methanosphaerula	mcrA4All
+methanogen	Methanocorpusculum	mcrA4All
+methanogen	Methanocalculus	mcrA4All
+methanogen	Methanococcoides	mcrA4All
+methanogen	Methanolobus	mcrA4All
+methanogen	Methanohalophilus	mcrA4All
+methanogen	Methanomethylovorans	mcrA4All
+methanogen	Methanohalobium	mcrA4All
+methanogen	Methanobrevibacter	mcrA4All
+methanogen	Methanosphaera	mcrA4All
+methanogen	Methanothermobacter	mcrA4All
+methanogen	Methanothermus	mcrA4All
+methanogen	Methanococcus	mcrA4All
+methanogen	Methanothermococcus	mcrA4All
+methanogen	Methanocaldococcus	mcrA4All
+methanogen	Methanotorris	mcrA4All
+methanogen	Methanomassiliicoccus	mcrA4All
+methanogen	Methanoplasma	mcrA4All
+methanogen	Methanocella	mcrA4All
+methanogen	Methanopyrus	mcrA4All
+methanogen	Methanofastidiosum	mcrA4All
+methanogen	Methermicoccus	mcrA4All
+methanogen	Methanonatronarchaeum	mcrA4All
+methanotroph	Methylobacter	TreeSAPP XmoA pmoA
+methanotroph	Methylococcus	TreeSAPP XmoA pmoA
+methanotroph	Methylomonas	TreeSAPP XmoA pmoA
+methanotroph	Methylomicrobium	TreeSAPP XmoA pmoA
+methanotroph	Methyloglobulus	TreeSAPP XmoA pmoA
+methanotroph	Methylomagnum	TreeSAPP XmoA pmoA
+methanotroph	Methylohalobius	TreeSAPP XmoA pmoA
+methanotroph	Methylotuvimicrobium	TreeSAPP XmoA pmoA
+methanotroph	Methylocystis	TreeSAPP XmoA pmoA
+methanotroph	Methylosinus	TreeSAPP XmoA pmoA
+methanotroph	Methylocapsa	TreeSAPP XmoA pmoA
+methanotroph	Methylacidiphilum	TreeSAPP XmoA pmoA
+methanotroph	Methylomirabilis	TreeSAPP XmoA pmoA
+methanotroph	Candidatus Methylomirabilis	TreeSAPP XmoA pmoA
+methanotroph	Methylocaldum	Bracken Methylococcaceae
+methanotroph	Methyloprofundus	Bracken Methylococcaceae
+methanotroph	Methylomarinum	Bracken Methylococcaceae
+methanotroph	Methylovulum	Bracken Methylococcaceae
+methanotroph	Methylogaea	Bracken Methylococcaceae
+methanotroph	Methylospira	Bracken Methylococcaceae
+methanotroph	Candidatus Methylospira	Bracken Methylococcaceae
+methanotroph	Methylocalor	Bracken Methylococcaceae
+methanotroph	Candidatus Methylocalor	Bracken Methylococcaceae
+methanotroph	Methanoperedens	mcrA4All AOM
+methanotroph	Candidatus Methanoperedens	mcrA4All AOM

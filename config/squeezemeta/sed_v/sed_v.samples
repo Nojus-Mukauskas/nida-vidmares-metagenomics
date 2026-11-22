@@ -1,0 +1,19 @@
+PV1	PV1_R1_filtered.fastq.gz	pair1
+PV1	PV1_R2_filtered.fastq.gz	pair2
+PV2	PV2_R1_filtered.fastq.gz	pair1
+PV2	PV2_R2_filtered.fastq.gz	pair2
+PV3	PV3_R1_filtered.fastq.gz	pair1
+PV3	PV3_R2_filtered.fastq.gz	pair2
+VV1	VV1_R1_filtered.fastq.gz	pair1
+VV1	VV1_R2_filtered.fastq.gz	pair2
+VV2	VV2_R1_filtered.fastq.gz	pair1
+VV2	VV2_R2_filtered.fastq.gz	pair2
+VV3	VV3_R1_filtered.fastq.gz	pair1
+VV3	VV3_R2_filtered.fastq.gz	pair2
+RV1	RV1_R1_filtered.fastq.gz	pair1
+RV1	RV1_R2_filtered.fastq.gz	pair2
+RV2	RV2_R1_filtered.fastq.gz	pair1
+RV2	RV2_R2_filtered.fastq.gz	pair2
+RV3	RV3_R1_filtered.fastq.gz	pair1
+RV3	RV3_R2_filtered.fastq.gz	pair2
+

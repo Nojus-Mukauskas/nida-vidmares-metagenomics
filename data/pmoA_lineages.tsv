@@ -1,0 +1,158 @@
+query	sample	closest_lineage	guild	support	rank	top5_agreement	dist_to_anchor	best_LWR	nearest_anchor
+pmoA_amoA|sed_n|sed_n_8595841_2-397	Muddy sediment	Haliea CuMMO (alkene MO)	alkaneMO	confident	order	0.4	1.141	0.412	31_XmoA
+pmoA_amoA|sed_n|sed_n_2193978_429-1253	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	genus/family	0.6	0.011	1.0	28_XmoA
+pmoA_amoA|sed_n|sed_n_2787356_492-617	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	genus/family	0.6	0.492	0.469	26_XmoA
+pmoA_amoA|sed_n|sed_n_1709771_149-991	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.62	1.0	28_XmoA
+pmoA_amoA|sed_n|sed_n_3281874_2-676	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.674	1.0	28_XmoA
+pmoA_amoA|sed_n|sed_n_4365962_184-897	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.737	1.0	28_XmoA
+pmoA_amoA|sed_n|sed_n_5370774_1-372	Muddy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	1.18	1.0	28_XmoA
+pmoA_amoA|sed_n|sed_n_6345837_2-262	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.06	0.993	39_XmoA
+pmoA_amoA|sed_n|sed_n_3122109_76-828	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.067	1.0	39_XmoA
+pmoA_amoA|sed_n|sed_n_3178151_122-673	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.075	1.0	39_XmoA
+pmoA_amoA|sed_n|sed_n_4053991_2-745	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.077	1.0	39_XmoA
+pmoA_amoA|sed_n|sed_n_5593938_2-361	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.09	0.711	39_XmoA
+pmoA_amoA|sed_n|sed_n_7773001_1-381	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.101	0.937	39_XmoA
+pmoA_amoA|sed_n|sed_n_1016035_942-1244	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.104	0.74	39_XmoA
+pmoA_amoA|sed_n|sed_n_5729060_2-592	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.108	0.908	39_XmoA
+pmoA_amoA|sed_n|sed_n_4374224_109-612	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.138	0.577	39_XmoA
+pmoA_amoA|sed_n|sed_n_3792721_3-395	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.138	0.451	39_XmoA
+pmoA_amoA|sed_n|sed_n_1160627_1-477	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.123	0.653	39_XmoA
+pmoA_amoA|sed_n|sed_n_4374224_1-90	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.197	0.094	42_XmoA
+pmoA_amoA|sed_n|sed_n_4685395_3-326	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.184	0.979	53_XmoA
+pmoA_amoA|sed_n|sed_n_824795_1639-2382	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.082	0.976	41_XmoA
+pmoA_amoA|sed_n|sed_n_2058634_1377-2120	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.083	0.979	41_XmoA
+pmoA_amoA|sed_n|sed_n_3502367_1296-2039	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.097	1.0	45_XmoA
+pmoA_amoA|sed_n|sed_n_8100206_146-622	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.102	1.0	45_XmoA
+pmoA_amoA|sed_n|sed_n_288835_4473-5219	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.113	1.0	45_XmoA
+pmoA_amoA|sed_n|sed_n_6097575_1-312	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.157	0.547	45_XmoA
+pmoA_amoA|sed_n|sed_n_2343910_2-514	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.166	0.438	45_XmoA
+pmoA_amoA|sed_n|sed_n_2462856_99-446	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.138	0.488	41_XmoA
+pmoA_amoA|sed_n|sed_n_1686011_1-330	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.168	0.432	41_XmoA
+pmoA_amoA|sed_n|sed_n_3999229_2-349	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.17	0.485	41_XmoA
+pmoA_amoA|sed_n|sed_n_1084574_1-330	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.178	0.422	41_XmoA
+pmoA_amoA|sed_n|sed_n_4271869_3-305	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.179	0.677	41_XmoA
+pmoA_amoA|sed_n|sed_n_2096303_719-1462	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.187	0.698	41_XmoA
+pmoA_amoA|sed_n|sed_n_3417654_776-1522	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.252	0.527	41_XmoA
+pmoA_amoA|sed_n|sed_n_4619063_3-677	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.034	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_5906284_173-631	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.036	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_8288342_3-365	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.039	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_3216100_1-309	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.042	0.576	40_XmoA
+pmoA_amoA|sed_n|sed_n_6338059_2-298	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.043	0.543	40_XmoA
+pmoA_amoA|sed_n|sed_n_1656603_1-435	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.043	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_7460796_3-281	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.047	0.992	40_XmoA
+pmoA_amoA|sed_n|sed_n_1750267_3-740	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.05	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_6132144_1-366	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.052	0.999	40_XmoA
+pmoA_amoA|sed_n|sed_n_6102413_3-317	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.052	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_1163218_1-504	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.053	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_5769670_2-325	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.055	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_6172985_214-435	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.061	0.176	40_XmoA
+pmoA_amoA|sed_n|sed_n_4998520_2-403	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.063	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_3786527_1002-1391	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.064	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_846796_145-306	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.073	0.215	40_XmoA
+pmoA_amoA|sed_n|sed_n_8151433_183-413	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.075	0.226	40_XmoA
+pmoA_amoA|sed_n|sed_n_7975379_1-492	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.076	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_2709138_1-141	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.077	0.212	40_XmoA
+pmoA_amoA|sed_n|sed_n_2709174_77-283	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.085	0.203	40_XmoA
+pmoA_amoA|sed_n|sed_n_3398698_2-535	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.135	1.0	40_XmoA
+pmoA_amoA|sed_n|sed_n_7359592_93-584	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.135	0.998	40_XmoA
+pmoA_amoA|sed_n|sed_n_6606082_1-153	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.135	0.299	40_XmoA
+pmoA_amoA|sed_n|sed_n_4275991_2-559	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.109	0.458	51_XmoA
+pmoA_amoA|sed_n|sed_n_1749747_1-249	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.065	0.975	51_XmoA
+pmoA_amoA|sed_n|sed_n_6606082_286-513	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.058	0.223	51_XmoA
+pmoA_amoA|sed_n|sed_n_671901_2-172	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.061	0.209	51_XmoA
+pmoA_amoA|sed_n|sed_n_6676941_55-435	Muddy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.545	0.93	41_XmoA
+pmoA_amoA|sed_n|sed_n_3364149_203-391	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	0.2	0.078	1.0	21_XmoA
+pmoA_amoA|sed_n|sed_n_6120298_404-1156	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	0.2	0.125	1.0	21_XmoA
+pmoA_amoA|sed_n|sed_n_3016123_1-63	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.014	0.932	20_XmoA
+pmoA_amoA|sed_n|sed_n_6797467_871-1044	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.014	1.0	20_XmoA
+pmoA_amoA|sed_n|sed_n_2614447_1499-2257	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.022	1.0	20_XmoA
+pmoA_amoA|sed_n|sed_n_883973_265-1023	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.025	1.0	20_XmoA
+pmoA_amoA|sed_n|sed_n_2032676_3-344	Muddy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.046	1.0	20_XmoA
+pmoA_amoA|sed_v|sed_v_2245796_214-420	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	genus/family	0.6	0.33	0.413	26_XmoA
+pmoA_amoA|sed_v|sed_v_2939472_238-417	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	genus/family	0.6	0.338	0.512	26_XmoA
+pmoA_amoA|sed_v|sed_v_8720057_779-1039	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.671	1.0	28_XmoA
+pmoA_amoA|sed_v|sed_v_95748_212-1099	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.68	1.0	28_XmoA
+pmoA_amoA|sed_v|sed_v_5317608_420-1313	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.689	1.0	28_XmoA
+pmoA_amoA|sed_v|sed_v_29128_379-1275	Sandy sediment	AOB-β (Nitrosomonadales) — amoA	amoA	confident	order	0.6	0.698	1.0	28_XmoA
+pmoA_amoA|sed_v|sed_v_6562797_2-166	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.137	0.305	42_XmoA
+pmoA_amoA|sed_v|sed_v_9208232_25-810	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	order	0.4	1.19	0.84	36_XmoA
+pmoA_amoA|sed_v|sed_v_4537903_2-442	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	order	0.4	1.237	0.451	36_XmoA
+pmoA_amoA|sed_v|sed_v_7037108_434-568	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.126	0.969	53_XmoA
+pmoA_amoA|sed_v|sed_v_1173693_2-241	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.065	0.954	41_XmoA
+pmoA_amoA|sed_v|sed_v_1496035_910-1653	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.082	0.976	41_XmoA
+pmoA_amoA|sed_v|sed_v_2623731_1-552	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.114	1.0	45_XmoA
+pmoA_amoA|sed_v|sed_v_4059428_1679-2419	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.195	0.913	41_XmoA
+pmoA_amoA|sed_v|sed_v_3282865_904-1647	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.195	0.942	41_XmoA
+pmoA_amoA|sed_v|sed_v_5386546_1-381	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.221	0.747	41_XmoA
+pmoA_amoA|sed_v|sed_v_1051336_37-423	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.068	1.0	40_XmoA
+pmoA_amoA|sed_v|sed_v_8432883_1-348	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.093	0.333	40_XmoA
+pmoA_amoA|sed_v|sed_v_223409_2-217	Sandy sediment	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.07	0.181	51_XmoA
+pmoA_amoA|sed_v|sed_v_8743106_2-388	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	0.2	0.095	0.986	21_XmoA
+pmoA_amoA|sed_v|sed_v_7644899_2-166	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	0.2	0.149	0.704	21_XmoA
+pmoA_amoA|sed_v|sed_v_6277783_1-297	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	0.2	0.166	1.0	21_XmoA
+pmoA_amoA|sed_v|sed_v_5437084_178-558	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.042	1.0	22_XmoA
+pmoA_amoA|sed_v|sed_v_4660269_907-1230	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.014	1.0	20_XmoA
+pmoA_amoA|sed_v|sed_v_8918414_1894-1968	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.014	0.995	20_XmoA
+pmoA_amoA|sed_v|sed_v_2476076_1734-2492	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.025	1.0	20_XmoA
+pmoA_amoA|sed_v|sed_v_1529152_1-444	Sandy sediment	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.029	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_6501381_757-1266	Autumn water	Haliea CuMMO (alkene MO)	alkaneMO	confident	order	0.4	0.778	0.334	31_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_7448871_3-311	Autumn water	Haliea CuMMO (alkene MO)	alkaneMO	confident	order	0.4	0.864	1.0	31_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_4434746_2-301	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.089	0.769	39_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_163251_1-198	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.114	0.419	42_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_776623_1-405	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	order	0.8	1.075	0.463	42_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_2952727_2-346	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	order	0.4	1.204	0.348	36_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_8824081_194-322	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.184	0.629	53_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_2486413_149-346	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.062	0.7	41_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_3616258_2-133	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.052	0.397	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_5294742_1-201	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.052	0.817	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_8436063_1632-1859	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.084	0.662	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_3339031_129-872	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.097	1.0	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_3992355_3-644	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.106	1.0	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_833592_1377-2120	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.107	1.0	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_189048_295-1038	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.109	1.0	45_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1092063_987-1445	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.193	0.911	41_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_5152409_3-368	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.071	1.0	40_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1013237_32-523	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.135	1.0	40_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1783991_112-309	Autumn water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.059	0.204	51_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_6344171_590-1249	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.023	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1301269_2-514	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.025	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_190837_292-951	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.03	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_3804285_1-333	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.035	0.94	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1576150_254-394	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.037	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_2822952_295-558	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.037	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_7165629_394-531	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.037	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_5569246_2-79	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.037	0.963	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_9009413_77-208	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.038	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_9009129_151-282	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.038	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_2863725_2-760	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.039	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_299851_1-267	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.041	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1460824_3-635	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.042	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_2738179_392-1150	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.043	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1628610_1-84	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.044	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_300286_2-226	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.046	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_4747379_2-211	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.047	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_1719115_2-265	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.055	1.0	20_XmoA
+pmoA_amoA|water_autumn_N_V|water_autumn_N_V_208846_77-283	Autumn water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.085	1.0	20_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_573932_3-359	Spring water	Actinobacteria CuMMO (alkane MO)	alkaneMO	confident	genus/family	0.6	0.549	0.46	15_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_242812_3-179	Spring water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.116	0.942	24_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_1047168_2-511	Spring water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.03	1.0	20_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_1599617_1-396	Spring water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.034	1.0	20_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_626134_2-457	Spring water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.045	1.0	20_XmoA
+pmoA_amoA|water_spring_vidmares|water_spring_vidmares_2827469_139-444	Spring water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.046	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_4349521_1-333	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.097	0.767	39_XmoA
+pmoA_amoA|water_summer|water_summer_3598405_160-471	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.227	0.99	39_XmoA
+pmoA_amoA|water_summer|water_summer_5264715_927-1781	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	order	0.4	1.167	0.981	36_XmoA
+pmoA_amoA|water_summer|water_summer_5723088_1-216	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.062	0.533	45_XmoA
+pmoA_amoA|water_summer|water_summer_6553043_2-166	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.078	0.711	45_XmoA
+pmoA_amoA|water_summer|water_summer_4006720_362-1000	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.082	1.0	45_XmoA
+pmoA_amoA|water_summer|water_summer_471285_137-718	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.102	1.0	45_XmoA
+pmoA_amoA|water_summer|water_summer_2977654_1568-2029	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.121	0.496	45_XmoA
+pmoA_amoA|water_summer|water_summer_2696542_718-1335	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	1.0	0.196	0.763	41_XmoA
+pmoA_amoA|water_summer|water_summer_2695682_2-325	Summer water	Type I MOB (Methylococcales) — pmoA	pmoA	confident	genus/family	0.8	0.054	1.0	40_XmoA
+pmoA_amoA|water_summer|water_summer_844306_161-919	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.022	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_3734120_1-333	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.024	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_7065924_1-471	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.028	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_4390683_1-201	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.033	0.974	20_XmoA
+pmoA_amoA|water_summer|water_summer_3734085_1-600	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.036	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_3160912_65-820	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.043	1.0	20_XmoA
+pmoA_amoA|water_summer|water_summer_2471668_1479-1718	Summer water	Type II MOB (Alphaproteobacteria) — pmoA	pmoA	confident	genus/family	1.0	0.044	1.0	20_XmoA

@@ -1,0 +1,11 @@
+input: /data/nextflow/taxprofiler/detaxed/taxprofiler_detax_samples.csv
+databases: /data/nextflow/taxprofiler/detaxed/taxprofiler_detax_databases.csv
+outdir: /data/nextflow/taxprofiler/detaxed/results
+
+perform_shortread_qc: false
+perform_shortread_hostremoval: false
+
+run_kraken2: true
+run_bracken: true
+
+run_profile_standardisation: false

@@ -1,0 +1,6 @@
+PVF1	PVF1_R1_filtered.fastq.gz	pair1
+PVF1	PVF1_R2_filtered.fastq.gz	pair2
+PVF2	PVF2_R1_filtered.fastq.gz	pair1
+PVF2	PVF2_R2_filtered.fastq.gz	pair2
+PVF3	PVF3_R1_filtered.fastq.gz	pair1
+PVF3	PVF3_R2_filtered.fastq.gz	pair2
